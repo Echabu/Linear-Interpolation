@@ -1,0 +1,46 @@
+
+
+#p_head1{
+
+color: rgb(23, 23, 223);
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style:italic;
+font-size: 30px;
+}
+
+body {
+
+    background-color: burlywood;
+    text-align: center;
+   
+}
+
+#top_formula1 {
+
+
+    border-style: solid;
+    opacity: 0.2;
+    
+}
+
+#top_formula1:hover {
+    opacity: 1;
+}
+
+#container {
+
+    text-align: center;
+}
+
+#button_button1_id:hover {
+
+    background-color:chocolate;
+}
+
+
+#button_button2_id:hover {
+
+background-color: cadetblue;
+
+}
